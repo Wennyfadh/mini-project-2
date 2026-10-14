@@ -1,0 +1,15 @@
+# Antigravity & IDE
+.gemini/
+.agents/
+.vscode/
+.idea/
+
+# OS specific
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary / Scratch
+*.tmp
+*.log
+scratch/
